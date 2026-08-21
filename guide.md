@@ -4,7 +4,7 @@ In this page, we would link all the pages that include a guide for specific stuf
 
 ## Starter guide
 
-If you are newbie on a Ragnarok Online (RO) server, can find useful [read this](get-started.md), **instead** if you already played on RO, [read this](starter-guide.md).
+If you are newbie on a Ragnarok Online (MMO) server, can find useful [read this](get-started.md), **instead** if you already played on MMO, [read this](starter-guide.md).
 
 ## Zeny farm
 

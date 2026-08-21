@@ -28,7 +28,7 @@ Where **sword** or **knight** could be the keywords.
 ## Game client F.A.Q.
 
 **Q:** When i extracted the client, Windows gave me a virus warning. Is it safe?
-- **A:** Yes. Set your antivirus to exclude the folder game from the scan. The client is an edited version of the official RO client to be adapted to the private server. So it's normal for Windows to indicate it has a virus. But do not worry, it's a false positive.
+- **A:** Yes. Set your antivirus to exclude the folder game from the scan. The client is an edited version of the official MMO client to be adapted to the private server. So it's normal for Windows to indicate it has a virus. But do not worry, it's a false positive.
 
 **Q:** When i try to launch the launcher, do not appear nothing
 - **A:** Check if antivirus has blocked some files and restore it
@@ -37,7 +37,7 @@ Where **sword** or **knight** could be the keywords.
 - **A:** We don't support nor against GRF edit
 
 **Q:** What can i do if Ragnarok keeps on crashing?
-- **A:** After downloading, extract, run Patcher.exe, complete the patch, and exit, there will be BountyRO-PatcherV7 Global Patcher.exe, finish the patch and run the game using the button inside BountyRO-PatcherV7 Global Patcher.exe.
+- **A:** After downloading, extract, run Patcher.exe, complete the patch, and exit, there will be BountyMMO-PatcherV7 Global Patcher.exe, finish the patch and run the game using the button inside BountyMMO-PatcherV7 Global Patcher.exe.
 
 **Q:** What can i do if i see a blank screen and cannot log in?
 - **A:** Go to Windows Program Exception / Security Exclude Anything related to Gepard or Bounty Ragnarok from the firewall/security program. Restart your PC / Laptop.
@@ -92,7 +92,7 @@ Where **sword** or **knight** could be the keywords.
 - **A:**
 **Q:** Crystal exp is useful only until level 99?
 - **A:**
-**Q:** Are the normal RO quest active or not?
+**Q:** Are the normal MMO quest active or not?
 - **A:**
 **Q:** What's the difference between Bloody Branch and Bloody Branch Quest?
 - **A:**
@@ -239,7 +239,7 @@ Q: How can i transfer zeny between characters within the same account?
 ## Crafting and upgrade
 
 **Q:** Where can i find the success probability of using enriched elunium/HD elunium?
-- **A:** The same of RO official. Info [here](https://ratemyserver.net/index.php?page=misc_table_refine)
+- **A:** The same of MMO official. Info [here](https://ratemyserver.net/index.php?page=misc_table_refine)
 
 ## Fishing F.A.Q.
 

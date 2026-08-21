@@ -1,8 +1,8 @@
 # BountyMMO Wiki
 
-## Welcome to Bounty RO Wiki!
+## Welcome to Bounty MMO Wiki!
 
-This wiki is in W.I.P. and step by step we would create a point of reference for all Bounty RO players.
+This wiki is in W.I.P. and step by step we would create a point of reference for all Bounty MMO players.
 
 **If you would like contribute to write this wiki, you can:**
 - Edit the pages yourself (ask an admin for a wiki account) and wait for your edits to be approved.

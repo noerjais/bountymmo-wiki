@@ -38,7 +38,7 @@
     - Normal client: [Google Drive](https://drive.google.com/file/d/1_xdCc8OrNOXmf4bZ_FxpcnenK_ZearUa/view)
 1. Download
 1. Extract with WinRaR or 7-zip or Winzip program
-1. Start BountyROPatcherV7
+1. Start BountyMMOPatcherV7
 1. Wait the patch is done
-1. Launch BountyRO.exe
+1. Launch BountyMMO.exe
 1. Game on!  (modification)

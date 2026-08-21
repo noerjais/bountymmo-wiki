@@ -28,7 +28,7 @@ In Prontera Town you can find a lot of things.
 | ![Cluckers Event NPC](.gitbook/assets/Cluckers_Event_NPC.gif) | **[Cluckers](events.md#cluckers-event)** |   |   |
 | ![Disguise Event NPC](.gitbook/assets/Disguise_Event_NPC.gif) | **[Disguise Event](events.md#disguise-event)** |   | Event information NPC that you can use to start Disguise Event |
 |   | **Bounty Board Info** |   |   |
-|   | **Bounty RO Info** |   |   |
+|   | **Bounty MMO Info** |   |   |
 |   | **Advanced Freebies** |   |   |
 |   | **Las Vegas** |   |   |
 |   | **[Quest Room](quest-room.md)** |   | A room with various NPC that sell special questable equipments |

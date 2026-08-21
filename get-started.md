@@ -1,4 +1,4 @@
-# Get Started (new to RO)
+# Get Started (new to MMO)
 
 After download the client and launched it (remember to patch it!!). Follow these istruction if you are new into a Ragnarok Private Server:
 
