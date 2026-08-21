@@ -57,6 +57,8 @@
 ## Class Skill Formulas
 
 * [Lord Knight](class-lord-knight.md)
+* [Sniper](class-sniper.md)
+* [Assassin Cross](class-assassin-cross.md)
 
 ## Server
 
