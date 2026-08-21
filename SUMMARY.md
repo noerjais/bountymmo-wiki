@@ -59,6 +59,16 @@
 * [Lord Knight](class-lord-knight.md)
 * [Sniper](class-sniper.md)
 * [Assassin Cross](class-assassin-cross.md)
+* [High Wizard](class-high-wizard.md)
+* [High Priest](class-high-priest.md)
+* [Champion](class-champion.md)
+* [Whitesmith](class-whitesmith.md)
+* [Creator](class-creator.md)
+* [Paladin](class-paladin.md)
+* [Professor](class-professor.md)
+* [Stalker](class-stalker.md)
+* [Clown](class-clown.md)
+* [Gypsy](class-gypsy.md)
 
 ## Server
 
