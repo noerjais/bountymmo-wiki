@@ -7,11 +7,7 @@ In this instance you have a chance to fight 3 random MVPs.
 - Use warper and go to **Central Lab** instance.
 - Talk to the Civilization Explorer to create the instances then talk with Temporary Dimension portal
 
-![Central_Lab](.gitbook/assets/Central_Lab.png)
-
 - Talk to the next NPC and wait 5 seconds a portal will appear
-
-![NPC_Door](.gitbook/assets/NPC_Door.png)
 
 - Walk right through.
 
@@ -22,7 +18,7 @@ In this instance you have a chance to fight 3 random MVPs.
 
 The numbers of each switch are:
 
-128  |  64  |  32  |  16   ** •**    8  |  4  |  2  |  1
+128  | 64  | 32  | 16   ** •**    8  | 4  | 2  | 1
 
 As long as you can get the number, you can go through.
 
@@ -37,25 +33,13 @@ EXAMPLE ONLY: 64 + 16 + 8 + 2 = **90 (the number given by the NPC shown in the s
 
 All of the switches are default off, so you just need to select.
 
-![CL_Instance_Switch_on](.gitbook/assets/CL_Instance_Switch_on.png)
-
 In this case, I will select Switch 2, 4, 5 and 7
 
 After that, talk to the researcher, he will let you in, if the code matches. In this case 90.
 
-![Talk_to_Main_Switch_CL_Instance](.gitbook/assets/Talk_to_Main_Switch_CL_Instance.png)
-
 Then walk right through to the portals and you will reach the Central Lab. Just wait around the middle and the MVPs will spawn.
 
-![CL_Instance](.gitbook/assets/CL_Instance.png)
-
 In the example below I got Dracula, Boitata and Evil Snake Lord.
-
-![MVP_IN_CL_INstance](.gitbook/assets/MVP_IN_CL_INstance.png)
-
-![MVP_IN_CL_INstance_2](.gitbook/assets/MVP_IN_CL_INstance_2.png)
-
-![MVP_IN_CL_INstance_3](.gitbook/assets/MVP_IN_CL_INstance_3.png)
 
 #### List of MVPs
 
@@ -74,7 +58,7 @@ The MVPs come in 3 waves and spawn at **random**, if you're lucky you may get a 
 | Doppelganger | Hatii | Valkyrie Randgris |
 | Mistress | White Lady | Ifrit |
 | Moonlight Flower | Ktullanux | Beelzebub |
-| Lady Tanee | Memory of Thanatos |   |
-| Baphomet |   |   |
+| Lady Tanee | Memory of Thanatos | |
+| Baphomet | | |
 
 Once you kill all the 3 MVPs, you can head out at the far right, a portal will appear.

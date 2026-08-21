@@ -36,16 +36,16 @@ Each one can have 3 enchantments
 | Type | Bonus Effect (If Successful) |
 | --- | --- |
 | Swordman | • STR +1~2<br>• VIT +1~3<br>• STR+1/VIT+1<br>• STR+2/VIT+2<br>• STR+1/VIT+2<br>• MHP +1~2%<br>• Atk +5<br>• Atk +10<br>• Atk +15<br>• Phsyical Reduction +1%<br>• Damage +1~2%<br>• Def +1~2 |
-| Mage |   |
+| Mage | |
 | Thief | • AGI +1<br>• AGI +2<br>• AGI +3<br>• LUK +1<br>• LUK +2<br>• AGI +1, LUK +1<br>• AGI +2, LUK +2<br>• AGI +2, LUK +1<br>• CRIT +2<br>• CRIT +4<br>• CRIT +6<br>• Flee +3<br>• Flee +6<br>• Flee +9<br>• Dmg +2% / MHP - 1%<br>• Dmg +4% / MHP -2%<br>• P Dodge +1<br>• P Dodge +2<br>• ASPD +1-3% |
 | Archer | **Bonuses:**<br>• DEX + 1~3<br>• AGI + 1~3<br>• AGI +1/ DEX +1<br>• AGI +1/ DEX +2<br>• AGI +2/ DEX +1<br>• CRIT + 1~3<br>• Flee +3<br>• Flee +6<br>• Flee +9<br>• Bow Dmg +2~3%<br>• Hit 2~6<br>• ASPD +1~2% |
-| Merchant |   |
-| Acolyte |   |
+| Merchant | |
+| Acolyte | |
 | MVP Special Enchant | Unique MHP 2%/ MSP 2%<br>Unique MHP 3%/MSP 3% |
 
 **Unique Power Stones (UPS)**
 
-| Item | MVP |   |
+| Item | MVP | |
 | --- | --- | --- |
 | 5 Baphomet Doll | Baphomet | 1 UPS |
 | 5 Fragment of Rossata Stone | Amon Ra, Nightmare Amon Ra | 1 UPS |
@@ -59,4 +59,4 @@ Each one can have 3 enchantments
 | 4 Pocket Watch | Leib Olmai | 1 UPS |
 | 3 Ice Scale | Ktullanux | 1 UPS |
 | 4 Piece of Shield | Lord of the Dead | 1 UPS |
-|   |   |   |
+| | | |

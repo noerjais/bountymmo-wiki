@@ -6,8 +6,6 @@ In this guide you can found how to farm zeny with different classes and differen
 
 ### Setup
 
-![Archer Stats & Skills](.gitbook/assets/Archer_Stats___Skills.png)
-
 #### Map:
 
 Bio Laboratory F2 (lhz_dun02), Thanatos Tower F6 (tha_t06)

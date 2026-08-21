@@ -19,7 +19,7 @@ Do not carry two identical equipments with you when doing enchantment. Otherwise
 
 ### WEAPONS
 
-| **C CLASS** |   |   |   |
+| **C CLASS** | | | |
 | --- | --- | --- | --- |
 | **Item** | **Zeny Cost** | **Item Cost** | **NPC** |
 | Book of Mother  Earth | 200.000 | Phracon x 10 | Leablem |
@@ -30,7 +30,7 @@ Do not carry two identical equipments with you when doing enchantment. Otherwise
 | Rope | 200.000 | Phracon x 10 | Seiyablem |
 | Violin | 200.000 | Phracon x 10 | Seiyablem |
 
-| **B CLASS** |   |   |   |
+| **B CLASS** | | | |
 | --- | --- | --- | --- |
 | Item | Zeny Cost | Item Cost | NPC |
 | Orcish Axe | 200.000 | Oridecon x 1 | Leablem |
@@ -46,7 +46,7 @@ Do not carry two identical equipments with you when doing enchantment. Otherwise
 | Waghnakh | 300.000 | Phracon x 10 | Seiyablem |
 | Arbalest Bow | 300.000 | • Oridecon  x 2<br>• Steel x 5 | Seiyablem |
 
-| **A CLASS** |   |   |   |
+| **A CLASS** | | | |
 | --- | --- | --- | --- |
 | Item | Zeny Cost | Item Cost | NPC |
 | Dragon Killer | 500.000 | Oridecon x 2 | Leablem |
@@ -67,7 +67,7 @@ Do not carry two identical equipments with you when doing enchantment. Otherwise
 | Stunner | 500.000 | Oridecon  x 2<br>Steel x 10 | Seiyablem |
 | Claymore | 500.000 | Oridecon  x 2<br>Steel x 10 | Seiyablem |
 
-| **S CLASS** |   |   |   |
+| **S CLASS** | | | |
 | --- | --- | --- | --- |
 | Item | Zeny Cost | Item Cost | NPC |
 | Zephyrus | 1.000.000 | Oridecon  x 5<br>Steel x 10 | Leablem |
@@ -86,7 +86,7 @@ Do not carry two identical equipments with you when doing enchantment. Otherwise
 
 ### ARMORS
 
-| **C CLASS** |   |   |   |
+| **C CLASS** | | | |
 | --- | --- | --- | --- |
 | Item | Zeny Cost | Item Cost | NPC |
 | Sunflower | 100.000 | Steel  x 3 | Leablem |
@@ -98,7 +98,7 @@ Do not carry two identical equipments with you when doing enchantment. Otherwise
 | Circlet | 200.000 | Steel  x 3 | Seiyablem |
 | Biretta | 200.000 | Steel  x 3 | Seiyablem |
 
-| **B CLASS** |   |   |   |
+| **B CLASS** | | | |
 | --- | --- | --- | --- |
 | Item | Zeny Cost | Item Cost | NPC |
 | Skull Ring | 300.000 | Steel  x 5 | Leablem |
@@ -115,7 +115,7 @@ Do not carry two identical equipments with you when doing enchantment. Otherwise
 | Shield | 250.000 | Steel  x 5 | Seiyablem |
 | Bongun Hat | 250.000 | Steel  x 5 | Seiyablem |
 
-| **A CLASS** |   |   |   |
+| **A CLASS** | | | |
 | --- | --- | --- | --- |
 | Item | Zeny Cost | Item Cost | NPC |
 | Pirate Bandana | 500.000 | Elunium  x 1 | Leablem |
@@ -139,7 +139,7 @@ Do not carry two identical equipments with you when doing enchantment. Otherwise
 | Brooch | 400.000 | Elunium  x 1 | Seiyablem |
 | Munak Hat | 300.000 | Elunium  x 1 | Seiyablem |
 
-| **S CLASS** |   |   |   |
+| **S CLASS** | | | |
 | --- | --- | --- | --- |
 | Item | Zeny Cost | Item Cost | NPC |
 | Mage Coat | 1.000.000 | Elunium  x 1 | Leablem |

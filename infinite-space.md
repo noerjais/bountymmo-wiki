@@ -2,12 +2,6 @@
 
 This instance has 50 floors, you can just progress easily by killing the mobs on each floor (like Endless Cellar and Endless Tower) The MVPs drop unique cards that are worth hunting.
 
-![Infinite_Space](.gitbook/assets/Infinite_Space.png)
-
-![Infinite_Space_Mode](.gitbook/assets/Infinite_Space_Mode.png)
-
-![Infinite_Space_Monsters](.gitbook/assets/Infinite_Space_Monsters.png)
-
 The monsters have a lot of HP so it can be a little time consuming to complete. Depending on your gear, choose normal mode.
 
 **Infinite Space** **Monsters**
