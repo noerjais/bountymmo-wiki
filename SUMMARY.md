@@ -47,6 +47,7 @@
 
 * [Instances](instances.md)
 * [Central Laboratory](central-laboratory.md)
+* [Endless Tower](endless-tower.md)
 * [Infinite Space](infinite-space.md)
 
 ## Server

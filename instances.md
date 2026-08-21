@@ -9,7 +9,7 @@ These are the instances available on Bounty:
 | **[Central Laboratory](central-laboratory.md)** | | |
 | **Devil Tower** | | |
 | **Endless Cellar** | | |
-| **Endless Tower** | | |
+| **[Endless Tower](endless-tower.md)** | | 101-floor party tower with 5 difficulty modes |
 | **Sealed Shrine** | | Cursed Baphomet Doll can be used for certain quest item |
 | **Sarah & Fenrir** | | Good for getting Sarah's Earring with Enchant |
 | **Orc's Memory** | | |
