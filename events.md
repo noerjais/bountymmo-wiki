@@ -126,31 +126,6 @@ An automatic **team guild battle**. When the event is announced, your **guild le
 
 **Reward:** Item prizes **and Cash Points** for the winning team. (No dual accounts allowed.)
 
-## Bounty Royal Rumble (8 vs 8)
-
-A team-versus-team **PvP showdown** — two squads of up to **8 players** battle it out in a special arena. It's built for organized, fair fights: only a set list of balanced gear is allowed inside, so matches come down to teamwork and skill.
-
-**How to join:** Talk to the **BRRT** NPC in Prontera (155, 220) and choose the 8 vs 8 Room. You'll need **Base Level 99** and **Job Level 50** to enter, and each side can hold up to 8 players.
-
-**Reward:** Glory and bragging rights for the winning squad.
-
-## Battle Royale
-
-A last-player-standing showdown, battle-royale style. When you step in, everyone is turned into a **High Novice** and your normal gear is safely stored away (only costume headgears stay on) — so **everybody starts on equal footing** and pure skill decides the winner. Explore the map for **hidden loot boxes** filled with random weapons, armor, and healing items, and stay inside the **safe zone**: it shrinks over time, and standing outside it hurts you every few seconds.
-
-You can play **Solo**, **Duo** (2 players), or **Squad** (4 players) — the mode changes each day per arena.
-
-**How to join:** Talk to the **Battle Royale** NPC in Prontera (196, 247). When a match opens you'll get an announcement with a few minutes to register. Your inventory is saved before the match and returned to you right after, so you never lose anything.
-
-**Reward:** **Gold Coins** — the more **kills** you rack up and the **higher you place**, the more you earn.
-
 ## Seasonal & Holiday Events
 
-Throughout the year the server also runs limited-time celebration events. Keep an eye on the in-game announcements and Discord so you don't miss them:
-
-- **Anniversary Event** — the server's birthday bash, with special dungeons, activities, and exclusive rewards.
-- **Chinese New Year** — festive monster spawns, a holiday gachapon, and lucky goodies.
-- **Bountyween (Halloween)** — spooky-season spawns and treats to collect.
-- **Valentine** — a love-themed hunt for special seasonal items.
-
-Since these only run during their season, check the newest announcements to see which one is live right now.
+The server also runs limited-time celebration events throughout the year — anniversaries, Chinese New Year, Halloween, and more. See the **[Seasonal Events](seasonal-events.md)** page for what's running and how to take part.

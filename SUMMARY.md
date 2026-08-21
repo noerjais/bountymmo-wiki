@@ -35,6 +35,14 @@
 * [Socket Enchant](socket-enchant.md)
 * [Malangdo Enchant](malangdo-enchant.md)
 
+## NPCs & Services
+
+* [Gachapon](gachapon.md)
+* [Exchangers & Traders](exchangers.md)
+* [Quests](quests.md)
+* [PvP Arenas](pvp.md)
+* [Useful NPCs & Rooms](npc-services.md)
+
 ## Instances
 
 * [Instances](instances.md)
@@ -46,6 +54,7 @@
 * [Server Information](server-information.md)
 * [Revo System Information](revo-system-information.md)
 * [Events](events.md)
+* [Seasonal Events](seasonal-events.md)
 * [FAQ](faq.md)
 
 ## About the Wiki
