@@ -95,3 +95,62 @@ When it is active, in Prontera Town appear a NPC **(insert coordinate here)**, i
 **Activation time:** GM activated
 
 **Reward:**
+
+---
+
+The events above are the quick mini-events. Below are the bigger **competitive and boss events** — perfect if you love PvP, guild wars, and boss hunts.
+
+## World Boss
+
+A mighty World Boss appears in the Worldboss Arena twice a day. The moment it shows up, the whole server gets an announcement — so rush in and fight it alongside everyone else. Whoever lands the **final blow** is crowned the winner and takes the top prize. Every win is tracked on the **World Boss ranking board**, so keep hunting to climb to the top.
+
+**When:** Every day at **08:00** and **20:00** (server time).
+
+**How to join:** Wait for the "World Boss has appeared" announcement, then head to the Worldboss Arena. You can talk to the World Boss info board to see the countdown to the next boss, which bosses might appear, and the current rankings.
+
+**Reward:** A valuable prize for the champion who lands the last hit, plus a place on the World Boss leaderboard.
+
+## King of Emperium (KoE)
+
+A royal-rumble **guild event** where guilds clash in an arena and the strongest guild takes the crown. You must be **in a guild** to join. The winning guild walks away with a mountain of rewards and bragging rights — and even the guilds that don't win still receive a participation reward just for jumping into the fight.
+
+**How to join:** Visit the **King of Emperium** NPC in Prontera (127, 213). It shows the next scheduled session (day and time), and when a session is live you can enter and pick your starting spot. Remember, you need to be in a guild.
+
+**Reward:** Big rewards for the champion guild, plus a participation reward for everyone else. (One reward per player — no dual accounts.)
+
+## Guild vs Guild (GvG) Event
+
+An automatic **team guild battle**. When the event is announced, your **guild leader** signs the team up, and two guilds face off in a battle arena. The first team to reach the target number of kills wins. Get knocked out? Don't worry — you're healed up and sent straight back into the fight after a few seconds, so the battle never slows down.
+
+**How to join:** When you see the GvG announcement, gather your guildmates close together and have your **guild leader register the team** (with the `@gvgeventjoin` command). Only the guild leader can sign up, and everyone must be standing nearby.
+
+**Reward:** Item prizes **and Cash Points** for the winning team. (No dual accounts allowed.)
+
+## Bounty Royal Rumble (8 vs 8)
+
+A team-versus-team **PvP showdown** — two squads of up to **8 players** battle it out in a special arena. It's built for organized, fair fights: only a set list of balanced gear is allowed inside, so matches come down to teamwork and skill.
+
+**How to join:** Talk to the **BRRT** NPC in Prontera (155, 220) and choose the 8 vs 8 Room. You'll need **Base Level 99** and **Job Level 50** to enter, and each side can hold up to 8 players.
+
+**Reward:** Glory and bragging rights for the winning squad.
+
+## Battle Royale
+
+A last-player-standing showdown, battle-royale style. When you step in, everyone is turned into a **High Novice** and your normal gear is safely stored away (only costume headgears stay on) — so **everybody starts on equal footing** and pure skill decides the winner. Explore the map for **hidden loot boxes** filled with random weapons, armor, and healing items, and stay inside the **safe zone**: it shrinks over time, and standing outside it hurts you every few seconds.
+
+You can play **Solo**, **Duo** (2 players), or **Squad** (4 players) — the mode changes each day per arena.
+
+**How to join:** Talk to the **Battle Royale** NPC in Prontera (196, 247). When a match opens you'll get an announcement with a few minutes to register. Your inventory is saved before the match and returned to you right after, so you never lose anything.
+
+**Reward:** **Gold Coins** — the more **kills** you rack up and the **higher you place**, the more you earn.
+
+## Seasonal & Holiday Events
+
+Throughout the year the server also runs limited-time celebration events. Keep an eye on the in-game announcements and Discord so you don't miss them:
+
+- **Anniversary Event** — the server's birthday bash, with special dungeons, activities, and exclusive rewards.
+- **Chinese New Year** — festive monster spawns, a holiday gachapon, and lucky goodies.
+- **Bountyween (Halloween)** — spooky-season spawns and treats to collect.
+- **Valentine** — a love-themed hunt for special seasonal items.
+
+Since these only run during their season, check the newest announcements to see which one is live right now.
