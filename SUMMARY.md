@@ -50,6 +50,10 @@
 * [Endless Tower](endless-tower.md)
 * [Infinite Space](infinite-space.md)
 
+## Game Mechanics
+
+* [Damage & Combat Formulas](damage-formulas.md)
+
 ## Server
 
 * [Server Information](server-information.md)
