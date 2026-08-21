@@ -54,6 +54,10 @@
 
 * [Damage & Combat Formulas](damage-formulas.md)
 
+## Class Skill Formulas
+
+* [Lord Knight](class-lord-knight.md)
+
 ## Server
 
 * [Server Information](server-information.md)
