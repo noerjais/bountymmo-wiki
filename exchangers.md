@@ -23,7 +23,7 @@ A reward shop where you turn in **Zeny, points, and materials** for special gear
 ## BOUNCE! Medals
 
 - **BOUNCE! Medal Maker** (Prontera 189, 209): converts **4 BOUNCE! Tokens → 1 Bounce! Medal**.
-- **BOUNCE! Medal Exchanger** (port 152, 346): spend your **Bounce! Medals** on reward items.
+- **BOUNCE! Medal Exchanger**: spend your **Bounce! Medals** on reward items.
 
 ## Token Makers
 

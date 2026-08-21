@@ -6,8 +6,6 @@ Gachapon machines are the fun way to win rare **costumes**, **auras**, **wings**
 
 A costume machine that spins for exclusive **costumes**. Some costumes are limited edition — once they're all claimed, that prize is gone for good, so try your luck while they last.
 
-**Location:** port 188, 338
-
 **Cost:** Cash Points, or 1 Goatchapon Ticket per spin.
 
 **Prizes:** Random costumes, with a rare **1% jackpot**.
@@ -45,8 +43,6 @@ The anniversary costume machine — spins from a huge pool of **costume wings, a
 ## 4th Anniversary Gachapon
 
 An anniversary machine that spins for special prizes.
-
-**Location:** port 153, 328
 
 **Cost:** 1 anniversary token per spin.
 

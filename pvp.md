@@ -12,13 +12,13 @@ An enhanced arena that tracks your **Kills, Deaths, and Assists**, complete with
 
 Pick the **Red** or **Blue** team and fight to wipe out the other side. The winning team earns item rewards.
 
-**How to join:** talk to the **Red Team** or **Blue Team** NPC in the port area (143 / 148, 320).
+**How to join:** talk to the **Red Team** or **Blue Team** NPC.
 
 ## Ranked Duel (1v1)
 
 Competitive **1-versus-1 ranked duels** with an **MMR rating** and a **leaderboard**. Join the queue, get matched against an opponent of similar skill, and the first to land the kill wins. Your rating, win/loss record, and win streak are all tracked. (No dual accounts — players on the same connection can't be matched together.)
 
-**How to join:** talk to the **Ranked Duel** NPC in the port area (153, 320).
+**How to join:** talk to the **Ranked Duel** NPC.
 
 ## X Coliseum
 
