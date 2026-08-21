@@ -2,14 +2,6 @@
 
 Gachapon machines are the fun way to win rare **costumes**, **auras**, **wings**, and special gear. Each machine uses its own token or currency — spin the machine and hope for the jackpot! Most machines have a **"View Rewards List"** option, so you can check everything you might win before you play.
 
-## Goatchapon
-
-A costume machine that spins for exclusive **costumes**. Some costumes are limited edition — once they're all claimed, that prize is gone for good, so try your luck while they last.
-
-**Cost:** Cash Points, or 1 Goatchapon Ticket per spin.
-
-**Prizes:** Random costumes, with a rare **1% jackpot**.
-
 ## Mega Shadow Gachapon
 
 Spins for **Shadow Equipment** — powerful gear worn in your shadow slots (physical, magical, and spell-caster shadow sets, plus premium "Mega Blitz" pieces).
@@ -39,13 +31,5 @@ The anniversary costume machine — spins from a huge pool of **costume wings, a
 **Cost:** 1 Bountiersary Token, **or** 1,388 Bounty Tickets per spin — make tokens at the [Bountiersary Token Maker](exchangers.md#token-makers).
 
 **Prizes:** Random anniversary costumes.
-
-## 4th Anniversary Gachapon
-
-An anniversary machine that spins for special prizes.
-
-**Cost:** 1 anniversary token per spin.
-
-**Prizes:** Random anniversary rewards (use "View Rewards List" to see the full pool).
 
 > **Tip:** The tokens for these machines are made at their matching **Token Maker** NPCs. See [Exchangers & Traders](exchangers.md) for the exchange rates.

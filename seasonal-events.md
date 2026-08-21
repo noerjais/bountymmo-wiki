@@ -15,7 +15,6 @@ The server's birthday is the biggest celebration of the year, and each anniversa
 ### 4th Anniversary
 
 - **Annivers4ry Wonders** (Prontera 177, 219): play with an anniversary token for a random prize.
-- **4th Anniversary Gachapon**: spins for special anniversary rewards.
 
 ### 3rd Anniversary
 
@@ -30,7 +29,3 @@ The server's birthday is the biggest celebration of the year, and each anniversa
 ## Bountyween (Halloween)
 
 The spooky-season event, **Bountyween**, brings a haunted map, seasonal monster spawns, and the **Hauntyween Exchange** (Prontera 147, 249) where you trade your Halloween loot for treats.
-
-## Midgard's World Tree (Community Support)
-
-A **server-wide community goal**. Everyone can chip in — donate **event items, Zeny, or Cash Points** — to fill a shared progress bar. As the total climbs, new **reward stages (tiers)** unlock for the whole server, so every bit helps. Check the World Tree to see the current progress and what unlocks next.
