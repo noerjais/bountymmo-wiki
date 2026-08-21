@@ -5,7 +5,7 @@
 ## Guides
 
 * [All Guides](guide.md)
-* [Get Started (new to MMO)](get-started.md)
+* [Get Started](get-started.md)
 * [Starter Guide](starter-guide.md)
 * [Zeny Farming](zeny-farm.md)
 * [Leveling: Archer](leveling-archer.md)
