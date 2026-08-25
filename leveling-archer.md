@@ -14,17 +14,61 @@ After following [starter guide](starter-guide.md), you can go to Warper to telep
 
 ## Build from newbie to hero
 
-### Step #1
+### Beginner Builds
 
 At the start, without zeny and coin (like me!), the only way to make equipment is to make base equipment.
 
-#### Equipment list
+#### Equipment list - Auto Bolter
 
-* **Headgear High**: +4 Apple of Archer
+* **Headgear High**: Apple of Archer --> Little Lunar Rainbow --> Then Upgrade to Lunar Rainbow eventually
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+* **Headgear lower:** Flying Galapago
+
+Increases Blitz Beat up to 400% (40% per level of Blitz Beat) and increases chance of Blitz Beat
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+
 * **Weapon:** +7 Proton Bow
 * **Armor:** +4 Pantie
-* **Garment:** +4 Undershit
+* **Garment:** +4 Undershirt --> Upgrade to Adventurer's backpack eventually
 * **Shoes:** +4 any shoes
+* **Cards for brooch\[1]:** 1 x Owl Duke Card, 1 x Owl Baron Card
+
+#### Stats:
+
+* **Agi:** 90 - 120
+* **Dex:** 80 - 100
+* **Luk:** 90
+
+Adjust stats to get 193 ASPD with minimum status point investment in AGI and DEX. Also **Improve concentration** skill increases ASPD so you can decide to not use only points to get 193 ASPD
+
+The remaining points will be useful to:
+
+* LUK for extra falcon activation. Every 3 LUK = 1% chance
+* INT for extra falcon damage (not against crystal)
+
+
+
+#### Equipment list - Double Strafe
+
+* **Headgear High**: +4 Apple of Archer --> Upgrade to Laser of Eagle
+* **Weapon:** Any Elemental Bow --> Upgrade to Bounty Bow
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+* **Armor:** Tights \[1] --> Upgrade to Bounty Elements + 200% Double Strafe with Bounty Bow
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+* **Garment:** +4 Undershirt \[1] --> Upgrade to Adventurer's Backpack
+* **Shoes:** +4 any shoes&#x20;
+* **Brooch \[1]** or **Gloves \[1]**
+
+**Cards:** Dragon Tail Card, Merman Card, Anolian Card, Alligator Card & Cruiser Card combo
 
 #### Stats:
 
@@ -35,19 +79,6 @@ Adjust stats to get 193 ASPD with minimum status point investment in AGI and DEX
 
 The remaining points will be useful to:
 
-* LUK for extra falcon activation. Every 3 LUK = 1% chance
-* INT for extra falcon damage (not against crystal)
+* INT for a bit more SP to double strafe
+* LUK for a bit more attack and hit rate
 
-### Step #2
-
-You must get better equipment. While **Fricco's Shoes** and cards for brooches are enough easily, Flying Galapago is a long quest. Anyway, mob for shoes and the cards give you stuff to sell or that you need for other quests. So please check the drop before selling it.
-
-#### Equipment list
-
-* **Shoes:** +4 Fricco's Shoes
-* **Cards for brooch\[1]:** 1xOwl Duke Card, 1xOwl Baron Card
-* **Headgear lower:** Flying Galapago
-
-Increases Blitz Beat up to 400% (40% per level of Blitz Beat) and increases chance of Blitz Beat
-
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
