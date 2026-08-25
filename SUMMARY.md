@@ -1,6 +1,7 @@
 # Table of contents
 
 * [BountyMMO Wiki](README.md)
+* [GOAT Item](goat-item.md)
 
 ## Guides
 
