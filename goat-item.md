@@ -1,5 +1,7 @@
 # GOAT Item
 
+
+
 <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Effect: INT +5 VIT +5 DEF +50&#x20;
@@ -44,3 +46,74 @@ Zenny 288m zeny
 18 Poring Catcher Token\
 18 Devil Killer Token\
 30 Mushroom Finder Token
+
+
+
+### GMG Goat&#x20;
+
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+Upper Headgear\
+Def: 10\
+Weight: 80\
+Slot: 1
+
+Effect:\
+STR +2\
+VIT +2\
+HIT +8\
+FLEE +8\
+DEF +15\
+CRIT +8\
+Demi Increase 5%\
+Demi Reduce 5%\
+ATK +70 (+1 per job level)
+
+Refine lvl +6\
+Demi Increase 3%\
+Demi Reduce 4%
+
+Refine lvl +10\
+Demi Increase 3%\
+Demi Reduce 3%
+
+Refine lvl +13\
+Demi Increase 3%\
+Demi Reduce 3%
+
+Refine lvl +14\
+Demi Increase 1%\
+Demi Reduce 1%\
+Reduce After Cast Delay 8%\
+ATK +30\
+DEF +15
+
+***
+
+Quest Materials:\
+288m Zeny
+
+1 Bounty GMG Damage\
+1 Bounty GMG Reduce\
+1 Cursed baphomet Doll\
+2 Tae Goo Lyeon\
+2 Bloodied Shackle Ball\
+888 Bounty Tickets\
+188 Bounty Coin\
+318 Bounty Card\
+25 Blessed Elunium\
+25 Blessed Oridecon\
+18 Sea God's Wrath\
+18 Bloody Branch\
+1 Bounty Bloody Branch\
+58 Bapho Jr. Card\
+8 Baphomet Doll\
+578 Poring Coin\
+18 Mithril\
+58 Shark\
+58 Marlin\
+18 Salmon\
+18 Piranha\
+8 Carp\
+8 Rare Fisherman Ticket\
+1 Laser of Eagle
