@@ -1,24 +1,66 @@
 # GOAT Item
 
+### **Bullseye**
 
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+1 Passion FB Hat \[1]\
+1 Poporing Balloon\
+1 Drops Balloon\
+20 Agate\
+1 Costume Banshee Master Kiss\
+28 Disguise Token\
+18 Mushroom Finder Token\
+18 Poring Catcher Token\
+15 Bounty Ticket
+
+8 Bow Thimble \[1]
+
+5 Ship Captain Hat \[1]\
+1 Antler\
+20 Evil Horn\
+1 Corsair\
+1 Scarlet Dyestuffs\
+50 Poring Coin\
+5 Bounty Ticket
+
+2 Hawk Eyes \[0]\
+2 Crow Tengu Mask \[0]\
+1 Khalitzburg Armor\
+1 Catfoot Hairpin \[1]\
+1 Poring Cake Hat \[0]\
+1 Triple Poring Cake\
+1 Angeling Hat\
+1 Poring Hat\
+1 Angeling Wing Ears\
+1 Angeling Hairpin/Angelring Hairpin\
+1 Cake Hat\
+8 Tom Yum Goong\
+1 Sashimi \[0]\
+500 Poring Coins\
+80 Bounty Coins\
+30 Mithril\
+8 Proof of Donation\
+800 Bounty Ticket\
+588m Zeny
+
+### GOAT Manteau
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-Effect: INT +5 VIT +5 DEF +50&#x20;
+**Effect**
 
-Def: 8&#x20;
+* INT +5
+* VIT +5
+* DEF +50
+* Immune to Frozen status
+* Long-range damage reduction +20%
+* Neutral damage reduction +10%
+* Every 2 Refines: Healing skill/item effectiveness +2%
+* Refine Level +12: Max HP +8%, Max SP +8%
 
-Immune to frozen status&#x20;
-
-Long range reduction 20%&#x20;
-
-Neutral reduction 10%&#x20;
-
-Every 2 Refine: Increase healing skill/item by 2%&#x20;
-
-Refine lvl +12 Max HP +8% Max SP +8%
-
-Weight: 80&#x20;
+**DEF:** 8\
+**Weight:** 80
 
 Zenny 288m zeny
 
