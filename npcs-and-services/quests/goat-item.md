@@ -1,6 +1,6 @@
 # GOAT Item
 
-### **Bullseye**
+### **Bullseye \[1]**
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@
 800 Bounty Ticket\
 588m Zeny
 
-### GOAT Manteau
+### GOAT Manteau \[1]
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -91,14 +91,12 @@ Zenny 288m zeny
 
 
 
-### GMG Goat&#x20;
+### GMG Goat \[1]
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Upper Headgear\
-Def: 10\
-Weight: 80\
-Slot: 1
+\
+Def: 10
 
 Effect:\
 STR +2\
@@ -159,3 +157,79 @@ Quest Materials:\
 8 Carp\
 8 Rare Fisherman Ticket\
 1 Laser of Eagle
+
+
+
+### Equipment \[1]
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+**Position:** Upper Headgear\
+**DEF:** 4
+
+Best gear to max Aftercast delay (ACD). At +15, gives 20% ACD. Perfect for builds that with skills that have long ACD.&#x20;
+
+#### Effect
+
+* STR +3
+* INT +2
+* ATK +10
+* MATK +10
+
+Refine Level +7
+
+* ATK +15
+* MATK +15
+
+Refine Level +9
+
+* ATK +15
+* MATK +15
+* Aftercast Delay -5%
+
+Refine Level +13
+
+* ATK +15
+* MATK +15
+* VIT +2
+* AGI +2
+* LUK +2
+* MHP +5%
+* MSP +5%
+* Aftercast Delay -5%
+
+Refine Level +15
+
+* ATK +15
+* MATK +15
+* STR +2
+* INT +2
+* DEX +2
+* LUK +2
+* MHP +8%
+* MSP +5%
+* Aftercast Delay -10%
+* Demi Reduce 5%
+* Demi Increase 5%
+
+#### Quest Materials
+
+* Zeny:&#x20;
+* 1 Hat of the Sun God (500K CP)
+* 2 Statue of Baby Angel
+* 2 Frog Hat
+* 4 Pirate Bandana
+* 2 Catfoot Hairpin
+* 2 Water Lily Crown
+* 1 Pile of Books
+* 2 Holier Threads
+* 1 Pass
+* 2 Pilule
+* 1 Sashimi
+* 300 Poring Coin
+* 80 Bounty Coin
+* 30 Mithril
+* 800 Bounty Ticket
+* 8 Rare Fisherman Ticket
+
+<br>
