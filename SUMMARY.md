@@ -1,7 +1,6 @@
 # Table of contents
 
 * [BountyMMO Wiki](README.md)
-* [GOAT Item](goat-item.md)
 
 ## Guides
 
@@ -40,7 +39,10 @@
 
 * [Gachapon](gachapon.md)
 * [Exchangers & Traders](exchangers.md)
-* [Quests](quests.md)
+* [Quests](npcs-and-services/quests/README.md)
+  * [GOAT Item](npcs-and-services/quests/goat-item.md)
+  * [Godly Item](npcs-and-services/quests/godly-item.md)
+  * [Deluxe Gear](npcs-and-services/quests/deluxe-gear.md)
 * [PvP Arenas](pvp.md)
 * [Useful NPCs & Rooms](npc-services.md)
 

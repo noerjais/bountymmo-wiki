@@ -2,7 +2,7 @@
 
 
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Effect: INT +5 VIT +5 DEF +50&#x20;
 
@@ -51,7 +51,7 @@ Zenny 288m zeny
 
 ### GMG Goat&#x20;
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Upper Headgear\
 Def: 10\
