@@ -112,3 +112,38 @@ The remaining points will be useful to:
 * INT for a bit more SP to double strafe
 * LUK for a bit more attack and hit rate
 
+
+
+### Trapper
+
+Core Skills
+
+* **Claymore Trap:** High fire damage and large area of effect
+* **Blast Mine (Wind):** Fast-deploying wind-property damage trap
+* **Landmine:** Earth-property damage trap useful for single-target burst or specific mobs
+* **Freezing Trap / Ankle Snare:** Utility traps used to freeze or hold enemies in place
+
+Easy stats build:&#x20;
+
+* Agi: Max
+* Dex: Max
+
+**Gear:**\
+All gear and cards that increase Int. Since you won't be tanking, you can max out int. Holding a shield with racial card also is a nice bonus.&#x20;
+
+You can enchant weapon (daggers or swords) with int, through Malangdo Enchants.
+
+And you can enchant Headgear (Top and middle), Garment, Shoes, Accessories with +3 int through Payon Enchanter
+
+**Hunter Shadow Armor:**&#x20;
+
+* Increases Claymore Trap and Land Mine damage by 20%
+* Every refine level increases Claymore Trap and Land Mine damage by 5%
+
+This is a niche build that can use to mob monsters with Claymore Trap - like Sleepers or Anubis or Glast Heim
+
+Blast Mine (wind) can be used against Anolians or Byalan 6 mobs
+
+If you lay enough mines in a group and have enough damage - this can be used for MVPs too. You do so by luring them to your traps
+
+You can scale this build to join War of Emperium (WOE) as well - Claymore Traps have very high damage that are not detectable (unless players use some form of detection)
