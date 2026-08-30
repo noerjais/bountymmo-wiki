@@ -71,19 +71,19 @@ The remaining points will be useful to:
 
 
 * **Headgear Lower:** Father's White Moustache +50 atk
-* **Weapon:** Any Elemental Bow +25% damage with respective arrow&#x20;
+* **Weapon:** Any Elemental Bow +25% damage with respective arrow \[any race card +20% damage, cruiser card for archer set combo]
   * Frozen Bow, Burning Bow, Gust Bow, Earth Bow. Gets extra damage when Paired with Bounty Elements (Armor)&#x20;
     * \--> Eventually upgrade to Bounty Bow which gives universal 200% Double Strafe Damage when paired with Bounty Elements
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-* **Armor:** Tights \[1] --> Upgrade to Bounty Elements + 200% Double Strafe with Bounty Bow
+* **Armor:** Tights \[1] --> Upgrade to Bounty Elements + 200% Double Strafe with Bounty Bow \[anolian card for combo, or Porcellio card +25 atk]
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-* **Garment:** +4 Undershirt \[1] --> Upgrade to Adventurer's Backpack
-* **Shoes:** +4 any shoes&#x20;
-* **Accessory 1:** Fairy Leaf Powder&#x20;
+* **Garment:** +4 Undershirt \[1] --> Upgrade to Adventurer's Backpack \[Dragon Tail Card 1 agi/ 5% double strafe damage for card combo, or Hyeri Card 1% range damage per 10 dex]
+* **Shoes:** +4 any shoes \[Merman Card for card combo, or Matyr card]
+* **Accessory 1:** Fairy Leaf Powder \[1] Alligator card 5% range reduce for card combo
   * DEX +2&#x20;
   * Reduces after cast delay by 5%
   * Increases long range physical attack by 2%
@@ -92,7 +92,13 @@ The remaining points will be useful to:
   * _Combo:_ When combined with Expert Archer1: Reduces after cast delay by 5%. Increases long range physical attack by 5%. When combined with Expert Archer2: Reduces after cast delay by 5%. Increases long range physical attack by 5%.
 * **Accessory 2:** Sarah Earring. Has no stats - but can be enchanted with Expert Archer 1 & 2 to unlock the Fairy Leaf Powder bonus above
 
-**Cards:** Dragon Tail Card, Merman Card, Anolian Card, Alligator Card & Cruiser Card combo
+**What you get from the Archer Card Combo -** Dragon Tail Card, Merman Card, Anolian Card, Alligator Card & Cruiser Card combo bonus:
+
+* AGI +5
+* DEX +3
+* Increases ranged damage by 20%
+* Perfect Hit +20
+* Additional bonuses to HP recovery and specific skill damage (like Arrow Shower or Double Strafe depending on the patch/server implementation).
 
 #### Stats:
 
