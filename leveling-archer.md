@@ -87,7 +87,7 @@ The remaining points will be useful to:
   * DEX +2&#x20;
   * Reduces after cast delay by 5%
   * Increases long range physical attack by 2%
-  * Enables use of Level 3 Magnum Break
+  * Enables use of Level 3 Magnum Break (this is really good - cast this and you get 20% fire damage added to all your attacks for 10 seconds)
   * If base DEX at least 100: Increases long range physical attack by 5%.&#x20;
   * _Combo:_ When combined with Expert Archer1: Reduces after cast delay by 5%. Increases long range physical attack by 5%. When combined with Expert Archer2: Reduces after cast delay by 5%. Increases long range physical attack by 5%.
 * **Accessory 2:** Sarah Earring. Has no stats - but can be enchanted with Expert Archer 1 & 2 to unlock the Fairy Leaf Powder bonus above
