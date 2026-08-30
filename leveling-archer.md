@@ -131,9 +131,9 @@ Easy stats build:&#x20;
 **Gear:**\
 All gear and cards that increase Int. Since you won't be tanking, you can max out int. Holding a shield with racial card also is a nice bonus.&#x20;
 
-You can enchant weapon (daggers or swords) with int, through Malangdo Enchants.
+You can enchant weapon (daggers or swords) with int, through [Malangdo Enchants](malangdo-enchant.md).
 
-And you can enchant Headgear (Top and middle), Garment, Shoes, Accessories with +3 int through Payon Enchanter
+And you can enchant Headgear (Top and middle), Garment, Shoes, Accessories with +3 int through [Payon Enchanter](payon-enchant.md).
 
 **Hunter Shadow Armor:**&#x20;
 
