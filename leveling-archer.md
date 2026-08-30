@@ -28,6 +28,8 @@ At the start, without zeny and coin, you can get a very decent build with gears 
 
 * **Headgear High**: Little Lunar Rainbow --> Then Upgrade to Lunar Rainbow eventually
 
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 * **Headgear lower:**&#x20;
