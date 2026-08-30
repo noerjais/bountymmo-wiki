@@ -6,17 +6,33 @@ After following [starter guide](starter-guide.md), you can go to Warper to telep
 
 ## Build from newbie to hero
 
-### Beginner Builds
+### Beginner Builds&#x20;
 
-At the start, without zeny and coin (like me!), the only way to make equipment is to make base equipment.
+At the start, without zeny and coin, you can get a very decent build with gears from PvM farming
+
+**Headgear High**: Apple of Archer&#x20;
+
+**Headgear Mid:** Binoculars
+
+**Headgear Lower:** Any
+
+**Armor:** Tights \[1] or Sniping Suit (for sharpshooting build)
+
+**Shoes:** Any
+
+**Accessories:** Gloves \[1]
+
+
 
 #### Equipment list - Auto Bolter
 
-* **Headgear High**: Apple of Archer --> Little Lunar Rainbow --> Then Upgrade to Lunar Rainbow eventually
+* **Headgear High**: Little Lunar Rainbow --> Then Upgrade to Lunar Rainbow eventually
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-* **Headgear lower:** Flying Galapago
+* **Headgear lower:**&#x20;
+  * CD in Mouth - Autocast random Level 3 Bolt Skill (Fire Bolt, Cold Bolt, Lightning Bolt, Earth Spike, Soul Strike) on the target when dealing physical attacks.
+  * or Flying Galapago
 
 Increases Blitz Beat up to 400% (40% per level of Blitz Beat) and increases chance of Blitz Beat
 
@@ -41,14 +57,23 @@ Adjust stats to get 193 ASPD with minimum status point investment in AGI and DEX
 The remaining points will be useful to:
 
 * LUK for extra falcon activation. Every 3 LUK = 1% chance
-* INT for extra falcon damage (not against crystal)
+* INT for extra falcon damage (not against crystal) and bolt damage
 
 
 
 #### Equipment list - Double Strafe
 
-* **Headgear High**: +4 Apple of Archer --> Upgrade to Laser of Eagle
-* **Weapon:** Any Elemental Bow --> Upgrade to Bounty Bow
+* **Headgear High**: Laser of Eagle
+*   **Headgear Mid:** Crow Tengu Mask 3% atk, 7% range (if base str 120)
+
+    <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+
+
+* **Headgear Lower:** Father's White Moustache +50 atk
+* **Weapon:** Any Elemental Bow +25% damage with respective arrow&#x20;
+  * Frozen Bow, Burning Bow, Gust Bow, Earth Bow. Gets extra damage when Paired with Bounty Elements (Armor)&#x20;
+    * \--> Eventually upgrade to Bounty Bow which gives universal 200% Double Strafe Damage when paired with Bounty Elements
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
