@@ -84,12 +84,17 @@ The remaining points will be useful to:
 * **Garment:** +4 Undershirt \[1] --> Upgrade to Adventurer's Backpack \[Dragon Tail Card 1 agi/ 5% double strafe damage for card combo, or Hyeri Card 1% range damage per 10 dex]
 * **Shoes:** +4 any shoes \[Merman Card for card combo, or Matyr card]
 * **Accessory 1:** Fairy Leaf Powder \[1] Alligator card 5% range reduce for card combo
-  * DEX +2&#x20;
-  * Reduces after cast delay by 5%
-  * Increases long range physical attack by 2%
-  * Enables use of Level 3 Magnum Break (this is really good - cast this and you get 20% fire damage added to all your attacks for 10 seconds)
-  * If base DEX at least 100: Increases long range physical attack by 5%.&#x20;
-  * _Combo:_ When combined with Expert Archer1: Reduces after cast delay by 5%. Increases long range physical attack by 5%. When combined with Expert Archer2: Reduces after cast delay by 5%. Increases long range physical attack by 5%.
+
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+
+
+* DEX +2&#x20;
+* Reduces after cast delay by 5%
+* Increases long range physical attack by 2%
+* Enables use of Level 3 Magnum Break (this is really good - cast this and you get 20% fire damage added to all your attacks for 10 seconds)
+* If base DEX at least 100: Increases long range physical attack by 5%.&#x20;
+* _Combo:_ When combined with Expert Archer1: Reduces after cast delay by 5%. Increases long range physical attack by 5%. When combined with Expert Archer2: Reduces after cast delay by 5%. Increases long range physical attack by 5%.
 * **Accessory 2:** Sarah Earring. Has no stats - but can be enchanted with Expert Archer 1 & 2 to unlock the Fairy Leaf Powder bonus above
 
 **What you get from the Archer Card Combo -** Dragon Tail Card, Merman Card, Anolian Card, Alligator Card & Cruiser Card combo bonus:
