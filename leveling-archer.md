@@ -83,7 +83,14 @@ The remaining points will be useful to:
 
 * **Garment:** +4 Undershirt \[1] --> Upgrade to Adventurer's Backpack
 * **Shoes:** +4 any shoes&#x20;
-* **Brooch \[1]** or **Gloves \[1]**
+* **Accessory 1:** Fairy Leaf Powder&#x20;
+  * DEX +2&#x20;
+  * Reduces after cast delay by 5%
+  * Increases long range physical attack by 2%
+  * Enables use of Level 3 Magnum Break
+  * If base DEX at least 100: Increases long range physical attack by 5%.&#x20;
+  * _Combo:_ When combined with Expert Archer1: Reduces after cast delay by 5%. Increases long range physical attack by 5%. When combined with Expert Archer2: Reduces after cast delay by 5%. Increases long range physical attack by 5%.
+* **Accessory 2:** Sarah Earring. Has no stats - but can be enchanted with Expert Archer 1 & 2 to unlock the Fairy Leaf Powder bonus above
 
 **Cards:** Dragon Tail Card, Merman Card, Anolian Card, Alligator Card & Cruiser Card combo
 
